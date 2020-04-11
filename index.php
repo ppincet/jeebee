@@ -1,3 +1,4 @@
 <?php
-	echo 'fuck off';
+	$a = 'shit';
+	printf('%s - happens', "$a");
 ?>
